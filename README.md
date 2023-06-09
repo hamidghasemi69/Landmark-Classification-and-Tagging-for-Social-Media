@@ -9,4 +9,8 @@ In this project, I implemented a deep convolutional neural network to classify l
 
 
 
+
+Below, the loss function and the learning rate is shown throughout different epochs in the training phase:
+
+
 <img width="589" alt="loss" src="https://github.com/hamidghasemi69/Landmark-Classification-and-Tagging-for-Social-Media/assets/22797186/c17186c4-29dc-4ea7-9be0-25e54097cff4">
