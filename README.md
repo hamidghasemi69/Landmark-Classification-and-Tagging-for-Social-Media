@@ -77,6 +77,8 @@ Below, the loss function and the learning rate is shown throughout different epo
 
 `Dataset`: Utilizes a publicly available dataset of images containing various landmarks.
 
+
+
 ---
 
 ## Contact & Contributions
